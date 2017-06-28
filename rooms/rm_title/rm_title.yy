@@ -9,7 +9,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "75adb70b-86eb-4929-9c99-874fac4a4552"
+        "75adb70b-86eb-4929-9c99-874fac4a4552",
+        "fbfa4732-4081-4c05-ad4b-85e7178b7b40"
     ],
     "layers": [
         {
@@ -44,8 +45,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_3169BAA0",
-                    "x": 512,
-                    "y": 288,
+                    "x": 544,
+                    "y": 256,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -55,6 +56,30 @@
                     "inheritCode": false,
                     "name_with_no_file_rename": "inst_3169BAA0",
                     "objId": "83c801ee-d83b-409d-ae3f-d256af875ace",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                },
+                {
+                    "id": "fbfa4732-4081-4c05-ad4b-85e7178b7b40",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_3A990DE",
+                    "x": 768,
+                    "y": 480,
+                    "IsDnD": true,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_3A990DE",
+                    "objId": "d22c4ff4-6027-4c00-9ac3-50bc3dd189dc",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1

@@ -30,4 +30,12 @@ if(image_xscale >= 1)
 	/// @DnDArgument : "objind" "obj_enemy"
 	/// @DnDSaveInfo : "objind" "006001e4-4950-487e-8c06-7a783c3376ac"
 	instance_change(obj_enemy, true);
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 1D3DBDAA
+	/// @DnDParent : 05C03182
+	/// @DnDArgument : "soundid" "sound_spawn"
+	/// @DnDSaveInfo : "soundid" "a4705979-5b9a-4a32-824d-bc9a9c60002c"
+	audio_play_sound(sound_spawn, 0, 0);
 }
